@@ -1,6 +1,6 @@
 /**
  * Testing asynchronous & nested foreaches with MySQL queries in Node.js
- * Simpliest version. It stores feed URLs in array as well as I attached SQL command.
+ * This one is an simpliest version of my test script. It stores the feed URLs in an array as well as I attached the SQL command too.
  * @author Janos Vajda
  */
 
